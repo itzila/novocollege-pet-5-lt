@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+
+    .button {
+        width: fit-content;
+        padding: 1vh 2vw;
+        background: white;
+        color: #111111;
+    }
+
+    input {
+        width: fit-content;
+    }
+
+    @media screen and (max-width: 780px) {
+        .button {
+            background-color: #c4c4c4;
+            color: white;
+        }
+    }
+}

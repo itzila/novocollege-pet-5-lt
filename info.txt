@@ -1,0 +1,30 @@
+1. React.js
+2. add form
+
+react 
+
+node.js // node -v
+// npm create vite@latest .
+// react // javascript
+
+// npm i
+// npm run dev
+// ctrl + c exit react app
+
+// scss
+// npm i node-sass
+// npm i -D sass
+
+
+// db
+// https://firebase.google.com
+// create project
+// firestore database
+// location eur3
+// project settings // your apps // </>
+// firestore database // rules // allow read, write;
+// https://firebase.google.com/docs/firestore/quickstart?hl=ru
+
+
+1. post
+2. style
